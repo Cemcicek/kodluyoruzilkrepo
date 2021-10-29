@@ -1,5 +1,5 @@
-<br />
 # Kodluyoruz ilk Repo
+
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) .Net Core Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet Readme dosyası, bir adet index.html barındırıyor.
 
 ![](github.png)
